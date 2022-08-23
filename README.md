@@ -4,7 +4,7 @@ Kwang-Lim Ko, Jun-Sang Yoo, Changwoo Han, Jungyeop Kim, and Seung-Won Jung
 
 ## Demo examples
 
-The blue mesh represents the results from the _Kolotouros et al_. (SPIN) and the pink mesh represents the results from ours.
+The blue mesh represents the results from the SPIN (_Kolotouros et al_.) and the pink mesh represents the results from ours.
 
 For each posture, the top parts are RGB images and the bottom parts are NIR images. 
 
