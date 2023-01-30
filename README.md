@@ -1,7 +1,6 @@
 # Pose and Shape Estimation of Humans in Vehicles
 
-> Pose and Shape Estimation of Humans in Vehicles (paper link will be provided)
-
+> Pose and Shape Estimation of Humans in Vehicles (paper link will be available)
 > Kwang-Lim Ko, Jun-Sang Yoo, Changwoo Han, Jungyeop Kim, and Seung-Won Jung
 
 
