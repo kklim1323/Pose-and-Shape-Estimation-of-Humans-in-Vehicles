@@ -1,5 +1,7 @@
 # Pose and Shape Estimation of Humans in Vehicles
+
 > Pose and Shape Estimation of Humans in Vehicles (paper link will be provided)
+
 > Kwang-Lim Ko, Jun-Sang Yoo, Changwoo Han, Jungyeop Kim, and Seung-Won Jung
 
 
@@ -7,11 +9,15 @@
 
 HIVE (Humans In VEhicle)
 
+A synthetic dataset consists of synthesized humans with different shapes and poses in vehicels.
 
+Download link will be available upon publication of our paper.
 
-Download link will be available upon publication of our paper
+## In-vehicle human 3D joints
 
-## 
+An in-vehicle human 3D joint dataset captured in real-world.
+
+Download link will be available upon publication of our paper.
 
 
 ## Demo examples
