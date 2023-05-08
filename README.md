@@ -53,6 +53,8 @@ Table below shows the pose evaluation result on the real in-vehicle test set and
 Our method shows the best performance on Drive&Act, and the performance of the other models is improved
 when they are fine-tuned with the HIVE dataset.
 
+
+
  | Drive & Act |   | In-vehicle test set (ours)| |
  :---         |     :---:   |   |       :---:       |  |
   **Model**         |     **MPJPE** | **PA-MPJPE**  |      **MPJPE**     | **PA-MPJPE** |
