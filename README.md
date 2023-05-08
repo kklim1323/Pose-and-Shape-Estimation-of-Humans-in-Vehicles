@@ -54,25 +54,7 @@ Our method shows the best performance on Drive&Act, and the performance of the o
 when they are fine-tuned with the HIVE dataset.
 
 |    | Drive & Act |   | In-vehicle test set (ours)| |
-| :---         |     :---:   |   |       :---:       |  |
-|  **Model**         |     **MPJPE** | **PA-MPJPE**  |      **MPJPE**     | **PA-MPJPE** |
-| SPIN    |261.3 | 95.6   | 229.1|  83.5        |
-| HMR     | 242.0 |  89.2    | 178.6 |    71.9      |
-HMR-EFT | 246.7 | 90.0  |184.8  |63.1
-SPEC  |282.5 | 93.2 | 199.0  |78.1
-PARE  |286.1 | 94.9 | 178.2 | **57.3**
-3DCrowdNet  |231.7 | 82.3 | 223.1  |70.6
-Jiang et al. | 198.3  |68.3  |201.8  |74.3
-||
-SPIN† |234.4| 87.5 |182.1 |73.6
-HMR†| 221.5 |82.4| 177.5| 69.0
-HMR-EFT†| 195.1 |108.6 |180.8| 68.0
-SPEC† |169.6 |77.5 |170.2| 73.1
-PARE†| 204.6 |81.6| 160.4| 58.5
-3DCrowdNet† |212.5 |81.0 |178.4 |62.9
-Jiang et al.†| 185.2| 70.1| 173.5| 70.6
-||
-**Ours**|**147.1** |**65.2**| **123.6**| 59.1
+
 
 ---
 
