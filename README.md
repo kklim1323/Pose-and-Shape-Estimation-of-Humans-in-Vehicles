@@ -46,7 +46,7 @@ For each posture, the top parts are RGB images and the bottom parts are NIR imag
 
 ## Ablation studies on Drive & Act dataset
 
-For a cross-validation for other dataset, we applied our and compared models to the public dataset Drive&Act.
+For a cross-validation for other dataset, we applied our and compared models to the public dataset [Drive&Act](https://driveandact.com/).
 
 Table below shows the pose evaluation result on the real in-vehicle test set and Drive & Act dataset: The state-ofthe-art models are evaluated, and their fine-tuned models with the HIVE dataset are reported with †.
 
