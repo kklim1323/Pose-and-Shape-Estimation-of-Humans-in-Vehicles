@@ -1,6 +1,8 @@
 # Pose and Shape Estimation of Humans in Vehicles
 
-Pose and Shape Estimation of Humans in Vehicles (paper link will be available)
+Pose and Shape Estimation of Humans in Vehicles (https://ieeexplore.ieee.org/document/10229964)
+
+> Published in: IEEE Transactions on Intelligent Transportation Systems ( Volume: 25, Issue: 1, January 2024)
 
 > Kwang-Lim Ko, Jun-Sang Yoo, Changwoo Han, Jungyeop Kim, and Seung-Won Jung
 
